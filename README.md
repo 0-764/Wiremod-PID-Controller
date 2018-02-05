@@ -56,7 +56,8 @@ It's simple to setup:-
 3. Set the enable input to 1 i.e. wiremod button
 
 ## Acknowledgements
-Thanks to [br3ttb](http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/) for explaining PID code in Arduino
+- Thanks to [2CloseShave](https://www.youtube.com/watch?v=PyJfrfFAMHg) for PID example video
+- Thanks to [br3ttb](http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/) for explaining PID code in Arduino
 
 ## License
 This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) file for details.
