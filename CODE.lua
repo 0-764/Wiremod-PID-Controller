@@ -88,22 +88,3 @@ if(first()) {
 
 ## PROGRAM START
 compute()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
