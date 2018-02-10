@@ -27,9 +27,9 @@
 
 ## Introduction
 
-With an expression 2 chip and this code, you can implement control for processes that require accurate and optimised automation. 
+With an expression 2 chip and this code, you can implement feedback control for processes that require accurate and optimised automation. 
 
-An everyday example of the use of a PID is cruise control for a road vehicle; where external influences such as gradients would cause speed changes, and the driver has the ability to alter the desired set speed. This is previewed within Garrysmod above.
+An everyday example use of a PID is cruise control for a road vehicle; where external influences such as gradients would cause speed changes, and the driver has the ability to alter the desired set speed. This is previewed within Garrysmod above.
 
 ## Features
 
@@ -52,7 +52,7 @@ It's simple to setup:-
 1. Place an E2 chip in the world using the "Expression 2" wiremod tool.
 2. Upload the contents of the "CODE.lua" to the E2 chip and save.
 3. Wire the correct inputs and outputs to the CHIP using the wire tool.
-  <i>The I/O for the controller is explaied within the CODE</i>
+  <i>The I/O for the controller is explained within the CODE</i>
 3. Set the enable input to 1 i.e. wiremod button
 
 ## Acknowledgements
