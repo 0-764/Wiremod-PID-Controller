@@ -27,9 +27,9 @@
 
 ## Introduction
 
-With an expression 2 chip and this code, you can implement feedback control for processes that require accurate and optimised automation. 
+You can construct feedback control for processes within Garry's Mod using an expression 2 chip and this code.
 
-An everyday example use of a PID is cruise control for a road vehicle; where external influences such as gradients would cause speed changes, and the driver has the ability to alter the desired set speed. This is previewed within Garrysmod above.
+A classic example of a PID controller is cruise control for a road vehicle, in which external factors such as elevation cause the vehicle to slow down, requiring more power from the engine to keep at a steady speed. The PID controller adjusts the motor output to maintain the desired set speed. This is demonstrated in the clip above within Garysmod.
 
 ## Features
 
